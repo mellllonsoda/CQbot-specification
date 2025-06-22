@@ -8,5 +8,14 @@
 ## 中古PC
 * CQbot
 * Zabbix エージェント
-## 
+## Rasperry Pi 3B+
 * Zabbix サーバー
+
+# ローカルIPアドレス構成
+|機材|IP|
+|----|--|
+|中古PC|192.168.1.150|
+|Rasperry Pi 3B+|192.168.1.151|
+
+
+
